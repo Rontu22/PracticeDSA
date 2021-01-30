@@ -1,0 +1,7 @@
+Here we are implementing stack using an array.
+(A). Operations :
+	1. push(int)
+	2. pop()
+	3. peek()
+	4. isEmpty()
+
